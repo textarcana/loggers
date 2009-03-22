@@ -1,0 +1,13 @@
+= Loggers
+
+Automated journaling agents.  Robots that watch what we are doing and
+write observations to a text file.
+
+<i>"All watched over by machines of loving grace."</i> -- Richard
+Brautigan
+
+== Scripts
+
+=== irc.pl
+
+A dead simple socket-based log bot for IRC.  Based heavily upon http://oreilly.com/pub/h/1964
