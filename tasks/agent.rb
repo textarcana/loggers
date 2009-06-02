@@ -20,7 +20,7 @@ namespace :agent do
 
   task :monitor do
 
-    log 0.5*60, "log/agent.txt", lambda{`rake test`}
+    log 30*60, "log/agent.txt", lambda{`rake test`}
 
   end
 
