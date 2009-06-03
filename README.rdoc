@@ -8,6 +8,10 @@ Brautigan
 
 == Scripts
 
-=== irc.pl
+=== irc/irc.pl
 
 A dead simple socket-based log bot for IRC.  Based heavily upon http://oreilly.com/pub/h/1964
+
+=== www/www.rb
+
+An extremely minimal Web agent framework in Ruby.  Invokes a process on a timer and writes the result to a log file and a JavaScript data function.
